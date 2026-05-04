@@ -1,0 +1,102 @@
+[
+  {
+    "article": "Article 14",
+    "title": "Right to Equality",
+    "description": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. This guarantees that no person shall be discriminated against by any law or executive action.",
+    "scope": "Applies against State action. Can be invoked when government/public authority discriminates arbitrarily. Not applicable against private persons directly.",
+    "remedy": "Writ of Mandamus or Certiorari in High Court (Article 226) or Supreme Court (Article 32).",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["equality", "discrimination", "equal protection", "arbitrary action", "government discrimination", "constitutional right"]
+  },
+  {
+    "article": "Article 15",
+    "title": "Prohibition of Discrimination on grounds of Religion, Race, Caste, Sex or Place of Birth",
+    "description": "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. No citizen shall be subjected to any disability, restriction or condition with regard to access to public places.",
+    "scope": "Protection against discrimination in public places, government services, education. State can make special provisions for women and children, and socially/educationally backward classes.",
+    "remedy": "High Court (Article 226) or Supreme Court (Article 32) for writs.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["discrimination", "religion", "caste", "sex", "place of birth", "public places", "reservation"]
+  },
+  {
+    "article": "Article 19",
+    "title": "Right to Freedom",
+    "description": "All citizens shall have the right to freedom of speech and expression; to assemble peaceably and without arms; to form associations or unions; to move freely throughout India; to reside in any part of India; to practise any profession or carry on any trade.",
+    "scope": "Subject to reasonable restrictions on grounds of sovereignty, security, public order, decency, morality, contempt of court, defamation, incitement. Not absolute rights.",
+    "remedy": "Writ of Mandamus in High Court (Article 226) or Supreme Court (Article 32). File PIL if widespread violation.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["freedom of speech", "expression", "assembly", "association", "movement", "profession", "trade", "fundamental right"]
+  },
+  {
+    "article": "Article 21",
+    "title": "Right to Life and Personal Liberty",
+    "description": "No person shall be deprived of his life or personal liberty except according to procedure established by law. Supreme Court has expanded this to include: right to privacy, right to health, right to livelihood, right to dignity, right to education, right to speedy trial, right to live with dignity.",
+    "scope": "One of the most expansive fundamental rights. Applies to all persons including non-citizens. Protects against arbitrary detention, medical negligence by state, environmental violations, etc.",
+    "remedy": "Habeas Corpus for unlawful detention. Writ in High Court (Article 226) or Supreme Court (Article 32). PIL in Supreme Court for systemic violations.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["right to life", "personal liberty", "privacy", "dignity", "arbitrary detention", "fundamental right", "Article 21"]
+  },
+  {
+    "article": "Article 21A",
+    "title": "Right to Education",
+    "description": "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine. Implemented through Right to Education Act 2009.",
+    "scope": "Applicable to children aged 6-14 years. Private schools must reserve 25% seats for EWS/disadvantaged children.",
+    "remedy": "Approach District Education Officer. File complaint to RTE authorities. High Court writ if denied.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["right to education", "RTE", "free education", "compulsory education", "school", "children"]
+  },
+  {
+    "article": "Article 22",
+    "title": "Protection against Arrest and Detention",
+    "description": "No person who is arrested shall be detained in custody without being informed of the grounds of arrest. Every arrested person shall be produced before nearest Magistrate within 24 hours. No person shall be detained beyond 24 hours without Magistrate's order.",
+    "scope": "Protects against arbitrary arrest. Person has right to consult and be defended by legal practitioner of choice.",
+    "remedy": "Habeas Corpus petition in High Court or Supreme Court for illegal detention. Complaint to police superior if rights not followed.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["arrest", "detention", "24 hours", "magistrate", "legal practitioner", "habeas corpus", "illegal arrest"]
+  },
+  {
+    "article": "Article 32",
+    "title": "Right to Constitutional Remedies",
+    "description": "The right to move the Supreme Court by appropriate proceedings for the enforcement of the rights conferred by Part III is guaranteed. Supreme Court shall have power to issue directions, orders, writs including habeas corpus, mandamus, prohibition, quo warranto and certiorari.",
+    "scope": "Dr. Ambedkar called this the heart and soul of the Constitution. Can approach Supreme Court directly for fundamental rights violations. PIL can be filed for public interest.",
+    "remedy": "File writ petition in Supreme Court. File PIL for widespread violations affecting public interest.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["Supreme Court", "writ", "habeas corpus", "mandamus", "fundamental rights enforcement", "PIL", "Article 32"]
+  },
+  {
+    "article": "Article 39A",
+    "title": "Equal justice and free legal aid",
+    "description": "The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities.",
+    "scope": "Basis for NALSA (National Legal Services Authority) and SLSA (State Legal Services Authorities). Free legal aid for economically weaker sections, women, children, SC/ST, etc.",
+    "remedy": "Apply to NALSA at nalsa.gov.in or nearest DLSA (District Legal Services Authority) for free legal representation.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["free legal aid", "legal services", "NALSA", "DLSA", "economic disability", "equal justice"]
+  },
+  {
+    "article": "Article 226",
+    "title": "Power of High Courts to issue certain writs",
+    "description": "Every High Court shall have the power to issue to any person or authority within the territories in relation to which it exercises jurisdiction, directions, orders, or writs, including habeas corpus, mandamus, certiorari, prohibition and quo warranto.",
+    "scope": "High Court has wider jurisdiction than Supreme Court under Article 32. Can issue writs against state AND private bodies performing public functions.",
+    "remedy": "File writ petition in respective State High Court. Can be filed by affected person or PIL for public interest.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["High Court", "writ", "habeas corpus", "mandamus", "certiorari", "Article 226", "writ petition"]
+  },
+  {
+    "article": "Article 300A",
+    "title": "Right to Property",
+    "description": "No person shall be deprived of his property save by authority of law. Property can only be acquired by government through due process of law with fair compensation.",
+    "scope": "Now a constitutional right (not fundamental right). Protection against arbitrary deprivation. Government must follow Land Acquisition Act 2013 for compulsory acquisition.",
+    "remedy": "Challenge acquisition in High Court. Claim fair compensation under Land Acquisition Act 2013.",
+    "act": "Constitution of India",
+    "category": "Constitutional",
+    "keywords": ["property", "right to property", "land acquisition", "compensation", "deprivation", "authority of law"]
+  }
+]

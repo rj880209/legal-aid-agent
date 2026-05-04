@@ -1,0 +1,65 @@
+[
+  {
+    "section": "BNSS Section 173",
+    "title": "Information in cognizable cases / FIR",
+    "description": "Every information relating to the commission of a cognizable offence, given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction and shall be read over to the informant. Every such information shall be signed by the person giving it. Substance thereof shall be entered in a book to be kept by such officer.",
+    "procedure": "1. Go to nearest police station. 2. Give information orally or in writing. 3. Officer must register FIR and give a copy to complainant for free. 4. If police refuses, complain to Superintendent of Police. 5. Can also file e-FIR online at state portal.",
+    "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["FIR", "first information report", "cognizable offence", "police complaint", "information to police"]
+  },
+  {
+    "section": "BNSS Section 175",
+    "title": "Police to investigate cognizable case",
+    "description": "Any officer in charge of a police station may, without the order of a Magistrate, investigate any cognizable case which a Court having jurisdiction over the local area within the limits of such station would have power to inquire into or try.",
+    "procedure": "Police shall investigate within their jurisdiction. Victims can follow up investigation status. If police is inactive, approach Magistrate under Section 175(3).",
+    "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["investigation", "police investigation", "cognizable case", "magistrate"]
+  },
+  {
+    "section": "BNSS Section 223",
+    "title": "Examination of accused by Magistrate",
+    "description": "When any person is arrested and brought before a Magistrate, the Magistrate shall, if the accused is not represented by a pleader, inform the accused of his right to have a pleader appointed at the expense of the State if the accused is unable to engage a pleader.",
+    "procedure": "Accused has right to legal representation. Magistrate must inform about free legal aid. Contact NALSA or State Legal Services Authority for free legal aid.",
+    "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["arrest", "magistrate", "legal aid", "pleader", "accused rights"]
+  },
+  {
+    "section": "BNSS Section 479",
+    "title": "Bail in non-bailable offences",
+    "description": "When any person accused of, or suspected of, the commission of any non-bailable offence is arrested or detained without warrant by an officer in charge of a police station or appears or is brought before a Court, he may be released on bail.",
+    "procedure": "1. Apply for bail to Sessions Court for serious offences. 2. Application should state grounds for bail. 3. Court considers nature of offence, evidence, antecedents. 4. High Court can grant anticipatory bail under Section 482.",
+    "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["bail", "non-bailable offence", "arrest", "detention", "release"]
+  },
+  {
+    "section": "BNSS Section 482",
+    "title": "Anticipatory Bail",
+    "description": "When any person has reason to apprehend that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section; and that Court may, if it thinks fit, direct that in the event of such arrest, he shall be released on bail.",
+    "procedure": "1. File anticipatory bail application in Sessions Court or High Court. 2. State reasons for apprehension of arrest. 3. Court may grant interim protection. 4. Conditions may be imposed.",
+    "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["anticipatory bail", "pre-arrest bail", "apprehension of arrest", "High Court"]
+  },
+  {
+    "section": "BNSS Section 356",
+    "title": "Victim Compensation Scheme",
+    "description": "The State Government shall prepare a scheme for providing funds for the purpose of compensation to the victims or their dependants who have suffered loss or injury as a result of the crime and who require rehabilitation.",
+    "procedure": "1. Apply to DLSA (District Legal Services Authority). 2. Submit proof of victimhood, FIR copy, medical reports. 3. DLSA recommends compensation amount. 4. State government disburses funds.",
+    "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["victim compensation", "rehabilitation", "crime victim", "DLSA", "legal services"]
+  },
+  {
+    "section": "BNSS Section 530",
+    "title": "Limitation period for filing complaints",
+    "description": "No Magistrate shall take cognizance of an offence of which the period of limitation has expired. The period of limitation shall be 6 months for offences punishable with fine only, 1 year for offences punishable with imprisonment up to 1 year, 3 years for offences punishable with imprisonment up to 3 years.",
+    "procedure": "File complaint within limitation period. Delay can be condoned with sufficient cause shown. Consult lawyer for condonation of delay applications.",
+    "act": "Bharatiya Nagarik Suraksha Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["limitation period", "time limit", "complaint", "cognizance", "delay"]
+  }
+]

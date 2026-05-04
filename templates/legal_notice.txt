@@ -1,0 +1,45 @@
+DATE: [DATE]
+
+TO,
+[RECIPIENT NAME]
+[RECIPIENT ADDRESS]
+[CITY, STATE, PIN CODE]
+
+SUBJECT: LEGAL NOTICE UNDER CONSUMER PROTECTION ACT 2019 / BHARATIYA NYAYA SANHITA 2023
+
+Sir/Madam,
+
+I, [YOUR FULL NAME], resident of [YOUR ADDRESS], am sending you this legal notice through my advocate / on my own behalf.
+
+FACTS OF THE CASE:
+1. That on [DATE OF INCIDENT], I [purchased / availed services from] you for [DESCRIPTION OF GOODS/SERVICES] for a consideration of Rs. [AMOUNT].
+2. That [DESCRIBE THE DEFICIENCY/DEFECT/FRAUD IN DETAIL].
+3. That I have suffered loss/damage to the tune of Rs. [AMOUNT] due to your [negligence/fraud/breach of contract].
+
+LEGAL GROUNDS:
+1. Your act constitutes a "deficiency in service" / "defect in goods" as defined under Section 2(11) / 2(17) of the Consumer Protection Act 2019.
+2. Your act amounts to "unfair trade practice" under Section 2(47) of the Consumer Protection Act 2019.
+3. [Add BNS Section if applicable - e.g., Section 318 BNS for cheating]
+
+DEMAND:
+You are hereby called upon to:
+1. [REFUND Rs. AMOUNT / REPLACE the defective product / COMPLETE the service] within 15 (fifteen) days of receipt of this notice.
+2. Pay compensation of Rs. [AMOUNT] for mental agony, harassment and loss suffered.
+3. [Any other specific demand]
+
+CONSEQUENCE OF NON-COMPLIANCE:
+If you fail to comply with the above demands within 15 days, I shall be constrained to initiate legal proceedings before the appropriate Consumer Disputes Redressal Commission / file a criminal complaint under BNS Section 318, without any further notice, at your risk, cost and consequences.
+
+Please treat this as a FINAL opportunity to resolve the matter amicably.
+
+Yours faithfully,
+
+[YOUR FULL NAME]
+[YOUR ADDRESS]
+[YOUR PHONE NUMBER]
+[YOUR EMAIL]
+[DATE]
+
+Enclosures:
+1. Copy of Invoice/Receipt
+2. [Other supporting documents]

@@ -1,0 +1,74 @@
+TO,
+The Officer-in-Charge / Station House Officer
+[POLICE STATION NAME] Police Station
+[ADDRESS OF POLICE STATION]
+[CITY, STATE]
+
+SUBJECT: Complaint for registration of FIR under Sections [RELEVANT BNS SECTIONS]
+
+Sir/Madam,
+
+I, [YOUR FULL NAME], Age: [AGE], [Occupation], residing at [YOUR COMPLETE ADDRESS], do hereby lodge the following complaint and request you to register an FIR (First Information Report) under Section 173 of Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023.
+
+1. COMPLAINANT DETAILS:
+   Name: [YOUR FULL NAME]
+   Address: [YOUR COMPLETE ADDRESS]
+   Mobile: [YOUR PHONE NUMBER]
+   Email: [YOUR EMAIL]
+
+2. ACCUSED DETAILS (if known):
+   Name: [ACCUSED NAME / UNKNOWN]
+   Address: [ACCUSED ADDRESS / UNKNOWN]
+   Phone / Other identifiers: [IF KNOWN]
+
+3. DATE, TIME AND PLACE OF INCIDENT:
+   Date: [DATE]
+   Time: [TIME]
+   Place: [LOCATION / ONLINE]
+
+4. FACTS OF THE COMPLAINT:
+   [Describe the incident in detail, chronologically. Include:
+   - What happened
+   - How it happened
+   - Witnesses if any
+   - Evidence available]
+
+5. APPLICABLE SECTIONS:
+   The above acts of the accused constitute offence(s) punishable under:
+   - [BNS Section XXX - Section Name]
+   - [IT Act Section XXX - if cyber crime]
+   - [Any other applicable section]
+
+6. LOSS/DAMAGE SUFFERED:
+   Financial Loss: Rs. [AMOUNT] (if any)
+   Other Loss: [Describe physical/mental harm]
+
+7. EVIDENCE IN POSSESSION:
+   a) [Document 1 - e.g., screenshots, receipts]
+   b) [Document 2]
+   c) [Document 3]
+
+8. PRAYER:
+   I, therefore, request your good self to:
+   a) Register an FIR and investigate the matter.
+   b) Take legal action against the accused under applicable sections.
+   c) Recover and restore my [stolen money/property] if applicable.
+
+I declare that the facts stated above are true to the best of my knowledge and belief.
+
+Yours faithfully,
+
+[YOUR FULL NAME]
+[DATE]
+[SIGNATURE]
+
+VERIFICATION:
+I, [YOUR NAME], hereby verify that the contents of this complaint are true and correct to the best of my knowledge and belief.
+
+Place: [CITY]
+Date: [DATE]
+[SIGNATURE]
+
+Enclosures:
+1. [Supporting evidence - screenshots, receipts, documents]
+2. [Any other relevant documents]

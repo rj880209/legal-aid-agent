@@ -1,0 +1,120 @@
+[
+  {
+    "section": "IT Act 2000 - Section 43",
+    "title": "Penalty and Compensation for damage to computer / data",
+    "description": "If any person without permission of the owner or any other person in charge of a computer, computer system or computer network, accesses or secures access; downloads, copies or extracts data; introduces or causes virus; damages or causes damage to computer system; disrupts any computer, computer system or computer network.",
+    "penalty": "Compensation not exceeding one crore rupees to the affected person.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["hacking", "unauthorized access", "data theft", "virus", "computer damage", "cybercrime"]
+  },
+  {
+    "section": "IT Act 2000 - Section 65",
+    "title": "Tampering with Computer Source Documents",
+    "description": "Whoever knowingly or intentionally conceals, destroys or alters or intentionally or knowingly causes another to conceal, destroy or alter any computer source code used for a computer, computer programme, computer system or computer network.",
+    "penalty": "Imprisonment up to 3 years or fine up to Rs. 2 lakhs or both.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["source code", "tampering", "software", "computer programme", "alteration"]
+  },
+  {
+    "section": "IT Act 2000 - Section 66",
+    "title": "Computer related offences (Hacking)",
+    "description": "If any person, dishonestly or fraudulently, does any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both.",
+    "penalty": "Imprisonment up to 3 years or fine up to Rs. 5 lakhs or both.",
+    "procedure": "File complaint at cybercrime.gov.in or nearest cybercrime police station. File FIR under IPC sections for fraud in addition.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["hacking", "computer offence", "dishonest", "fraudulent", "cybercrime", "unauthorized access"]
+  },
+  {
+    "section": "IT Act 2000 - Section 66A",
+    "title": "Sending offensive messages through communication service",
+    "description": "Note: Section 66A was struck down by Supreme Court in Shreya Singhal v Union of India (2015). However, online harassment may still be prosecuted under BNS sections for criminal intimidation and defamation.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["offensive message", "online message", "harassment message", "social media", "struck down"]
+  },
+  {
+    "section": "IT Act 2000 - Section 66B",
+    "title": "Punishment for dishonestly receiving stolen computer resource",
+    "description": "Whoever dishonestly receives or retains any stolen computer resource or communication device knowing or having reason to believe the same to be stolen computer resource or communication device.",
+    "penalty": "Imprisonment up to 3 years or fine up to Rs. 1 lakh or both.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["stolen device", "stolen computer", "stolen mobile", "receiving stolen"]
+  },
+  {
+    "section": "IT Act 2000 - Section 66C",
+    "title": "Identity Theft",
+    "description": "Whoever fraudulently or dishonestly makes use of the electronic signature, password or any other unique identification feature of any other person.",
+    "penalty": "Imprisonment up to 3 years and fine up to Rs. 1 lakh.",
+    "procedure": "1. File complaint at cybercrime.gov.in. 2. File FIR at cybercrime police station. 3. Report to bank/financial institution immediately if financial loss. 4. Report to CERT-In if data breach.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["identity theft", "password theft", "impersonation", "electronic signature", "fake account"]
+  },
+  {
+    "section": "IT Act 2000 - Section 66D",
+    "title": "Cheating by personation using computer resource",
+    "description": "Whoever by means of any communication device or computer resource cheats by personation, shall be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine.",
+    "penalty": "Imprisonment up to 3 years and fine up to Rs. 1 lakh.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["online cheating", "personation", "fake profile", "impersonation", "computer fraud"]
+  },
+  {
+    "section": "IT Act 2000 - Section 66E",
+    "title": "Violation of Privacy",
+    "description": "Whoever, intentionally or knowingly captures, publishes or transmits the image of a private area of any person without his or her consent, under circumstances violating the privacy of that person.",
+    "penalty": "Imprisonment up to 3 years or fine up to Rs. 2 lakhs or both.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["privacy violation", "voyeurism", "private image", "non-consensual", "morphed image", "intimate image"]
+  },
+  {
+    "section": "IT Act 2000 - Section 66F",
+    "title": "Cyber Terrorism",
+    "description": "Whoever with intent to threaten unity, integrity, security or sovereignty of India or to strike terror in the people or any section of the people by denying or cause the denial of access to any person authorised to access computer resource.",
+    "penalty": "Imprisonment which may extend to life imprisonment.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["cyber terrorism", "national security", "infrastructure attack", "denial of access"]
+  },
+  {
+    "section": "IT Act 2000 - Section 67",
+    "title": "Publishing obscene material in electronic form",
+    "description": "Whoever publishes or transmits or causes to be published in the electronic form, any material which is lascivious or appeals to the prurient interest or if its effect is such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter.",
+    "penalty": "First conviction: imprisonment up to 3 years and fine up to Rs. 5 lakhs. Subsequent: imprisonment up to 5 years and fine up to Rs. 10 lakhs.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["obscene content", "pornography", "lascivious", "online obscenity", "morphed images"]
+  },
+  {
+    "section": "IT Act 2000 - Section 67B",
+    "title": "Punishment for publishing child sexually abusive material",
+    "description": "Whoever publishes or transmits or causes to be published or transmitted material in any electronic form which depicts children in obscene or indecent or sexually explicit manner.",
+    "penalty": "First conviction: imprisonment up to 5 years and fine up to Rs. 10 lakhs. Subsequent: imprisonment up to 7 years and fine up to Rs. 10 lakhs.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["child pornography", "CSAM", "child abuse", "online child abuse"]
+  },
+  {
+    "section": "IT Act 2000 - Section 72",
+    "title": "Breach of confidentiality and privacy",
+    "description": "Any person who, in pursuance of any of the powers conferred under this Act, rules or regulations made thereunder, has secured access to any electronic record, book, register, correspondence, information, document or other material without the consent of the person concerned discloses such material to any other person.",
+    "penalty": "Imprisonment up to 2 years or fine up to Rs. 1 lakh or both.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["data breach", "confidentiality", "privacy breach", "data disclosure", "unauthorized disclosure"]
+  },
+  {
+    "section": "IT Act 2000 - Section 79",
+    "title": "Exemption of intermediary from liability",
+    "description": "An intermediary (like social media platform) shall not be liable for any third party information, data, or communication link made available or hosted by it if it acts as a mere conduit and does not initiate the transmission. Intermediaries must comply with government orders to remove content.",
+    "procedure": "Report offensive content to platform first. If no action, report to cybercrime.gov.in. If harmful content stays up, approach High Court for orders.",
+    "act": "Information Technology Act 2000",
+    "category": "Criminal",
+    "keywords": ["intermediary", "social media", "platform liability", "content removal", "takedown"]
+  }
+]

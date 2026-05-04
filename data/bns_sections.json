@@ -1,0 +1,137 @@
+[
+  {
+    "section": "BNS Section 61",
+    "title": "Criminal Conspiracy",
+    "description": "When two or more persons agree to do, or cause to be done, an illegal act, or an act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy.",
+    "penalty": "Imprisonment up to 6 months, or fine, or both. If conspiracy to commit offence punishable with death or life imprisonment: rigorous imprisonment up to 6 months.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["conspiracy", "agreement", "illegal act", "two persons"]
+  },
+  {
+    "section": "BNS Section 100",
+    "title": "Murder",
+    "description": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.",
+    "penalty": "Death or imprisonment for life, and fine.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["murder", "death", "killing", "homicide"]
+  },
+  {
+    "section": "BNS Section 103",
+    "title": "Culpable Homicide not amounting to Murder",
+    "description": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "penalty": "Imprisonment for life or up to 10 years, and fine.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["culpable homicide", "unintentional killing", "manslaughter"]
+  },
+  {
+    "section": "BNS Section 115",
+    "title": "Grievous Hurt",
+    "description": "Whoever causes grievous hurt to another shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "penalty": "Imprisonment up to 7 years and fine.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["grievous hurt", "serious injury", "physical harm"]
+  },
+  {
+    "section": "BNS Section 118",
+    "title": "Voluntarily causing hurt",
+    "description": "Whoever voluntarily causes hurt to another shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.",
+    "penalty": "Imprisonment up to 1 year or fine up to Rs. 10,000 or both.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["hurt", "assault", "physical harm", "bodily harm"]
+  },
+  {
+    "section": "BNS Section 303",
+    "title": "Theft",
+    "description": "Whoever commits theft shall be punished with rigorous imprisonment for a term which may extend to three years, and shall also be liable to fine.",
+    "penalty": "Rigorous imprisonment up to 3 years and fine.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["theft", "stealing", "property", "dishonest taking"]
+  },
+  {
+    "section": "BNS Section 308",
+    "title": "Extortion",
+    "description": "Whoever commits extortion shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "penalty": "Imprisonment up to 3 years or fine or both.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["extortion", "threat", "blackmail", "force", "coercion"]
+  },
+  {
+    "section": "BNS Section 316",
+    "title": "Criminal Breach of Trust",
+    "description": "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law.",
+    "penalty": "Imprisonment up to 3 years or fine or both.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["breach of trust", "misappropriation", "embezzlement", "entrusted property"]
+  },
+  {
+    "section": "BNS Section 318",
+    "title": "Cheating",
+    "description": "Whoever cheats shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. Cheating and dishonestly inducing delivery of property: imprisonment up to 5 years.",
+    "penalty": "Imprisonment up to 3 years or 5 years (if property delivered) and fine.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["cheating", "fraud", "deception", "dishonest", "misrepresentation", "online fraud", "scam"]
+  },
+  {
+    "section": "BNS Section 319",
+    "title": "Cheating by personation",
+    "description": "A person is said to cheat by personation if he cheats by pretending to be some other person, or by knowingly substituting one person for another, or representing that he or any other person is a person other than he or such other person really is.",
+    "penalty": "Imprisonment up to 5 years and fine.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["personation", "identity fraud", "impersonation", "fake identity"]
+  },
+  {
+    "section": "BNS Section 324",
+    "title": "Mischief",
+    "description": "Whoever with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits mischief.",
+    "penalty": "Imprisonment up to 6 months or fine or both.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["mischief", "property damage", "destruction", "vandalism"]
+  },
+  {
+    "section": "BNS Section 351",
+    "title": "Criminal Intimidation",
+    "description": "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of anyone in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do.",
+    "penalty": "Imprisonment up to 2 years or fine or both.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["intimidation", "threat", "threatening", "harassment"]
+  },
+  {
+    "section": "BNS Section 74",
+    "title": "Assault or use of Criminal Force to Woman with intent to outrage her Modesty",
+    "description": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years.",
+    "penalty": "Imprisonment of 1 to 5 years and fine.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["outraging modesty", "assault on woman", "sexual harassment", "molestation"]
+  },
+  {
+    "section": "BNS Section 79",
+    "title": "Stalking",
+    "description": "Any man who follows a woman and contacts, or attempts to contact such woman to foster personal interaction repeatedly despite a clear indication of disinterest by such woman; or monitors the use by a woman of the internet, email or any other form of electronic communication.",
+    "penalty": "First conviction: imprisonment up to 3 years and fine. Subsequent conviction: imprisonment up to 5 years and fine.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["stalking", "following", "harassment", "cyberstalking", "online harassment"]
+  },
+  {
+    "section": "BNS Section 356",
+    "title": "Defamation",
+    "description": "Whoever by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm the reputation of such person.",
+    "penalty": "Simple imprisonment up to 2 years or fine or both.",
+    "act": "Bharatiya Nyaya Sanhita 2023",
+    "category": "Criminal",
+    "keywords": ["defamation", "slander", "libel", "reputation", "false statement"]
+  }
+]

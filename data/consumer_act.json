@@ -1,0 +1,102 @@
+[
+  {
+    "section": "Consumer Protection Act 2019 - Section 2(7)",
+    "title": "Definition of Consumer",
+    "description": "Consumer means any person who buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment. Includes any user of such goods with approval. Also includes person who hires services for consideration.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["consumer", "buyer", "goods", "services", "consideration", "customer"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 2(11)",
+    "title": "Deficiency in Service",
+    "description": "Deficiency means any fault, imperfection, shortcoming or inadequacy in the quality, nature, and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["deficiency", "service", "fault", "imperfection", "shortcoming", "poor service"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 2(17)",
+    "title": "Defect in Goods",
+    "description": "Defect means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or under any contract, express or implied, or as is claimed by the trader in any manner whatsoever.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["defect", "goods", "product", "quality", "faulty", "defective product"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 2(47)",
+    "title": "Unfair Trade Practice",
+    "description": "Unfair trade practice means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including false representation, misleading advertisement, bait and switch, not complying with safety standards.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["unfair trade", "deception", "misleading", "false representation", "advertisement", "bait and switch"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 34",
+    "title": "Jurisdiction of District Consumer Commission",
+    "description": "The District Consumer Disputes Redressal Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed Rs. 1 crore. Cases can be filed where consumer resides or works or where opposite party resides/carries business.",
+    "procedure": "1. File complaint at District Consumer Commission. 2. Pay prescribed court fee (online via e-Daakhil). 3. Commission issues notice to opposite party. 4. Hearing and order within 3-5 months typically. 5. Appeal to State Commission if needed.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["district consumer commission", "jurisdiction", "1 crore", "complaint", "consumer forum"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 35",
+    "title": "Manner of lodging Complaint",
+    "description": "A complaint in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided may be filed with the District Consumer Commission by the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service provided or agreed to be provided.",
+    "procedure": "Complaint can be filed: 1. Online via e-Daakhil portal (edaakhil.nic.in). 2. Physical filing at District Consumer Commission. 3. Complaint should have facts, relief sought, supporting documents.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["file complaint", "consumer complaint", "e-daakhil", "lodging complaint", "procedure"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 38",
+    "title": "Procedure on admission of complaint",
+    "description": "On receipt of a complaint, the District Consumer Commission shall, unless it is dismissed under section 37, refer a copy of the complaint to the opposite party directing him to give his version of the case within a period of 30 days.",
+    "procedure": "After complaint admitted: Opposite party gets 30 days. Commission can seek expert opinion. Mediation may be offered. Order for replacement/refund/compensation issued.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["complaint procedure", "opposite party", "notice", "mediation", "consumer case"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 47",
+    "title": "State Consumer Disputes Redressal Commission",
+    "description": "The State Consumer Disputes Redressal Commission shall have jurisdiction to entertain complaints where the value of goods or services paid as consideration exceeds Rs. 1 crore but does not exceed Rs. 10 crores. Also entertains appeals from District Commission.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["state consumer commission", "1 crore", "10 crores", "appeal", "state forum"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 58",
+    "title": "National Consumer Disputes Redressal Commission",
+    "description": "NCDRC has jurisdiction for complaints exceeding Rs. 10 crores and appeals from State Commissions.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["NCDRC", "national consumer commission", "10 crores", "appeal", "national forum"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 69",
+    "title": "Limitation period for consumer complaints",
+    "description": "The District Consumer Commission, the State Consumer Commission or the National Consumer Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["limitation", "2 years", "time limit", "consumer complaint deadline"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 83",
+    "title": "Penalties for non-compliance with order",
+    "description": "Whoever fails to comply with any order made by the District Consumer Commission, the State Consumer Commission or the National Consumer Commission shall be punished with imprisonment for a term which shall not be less than one month but which may extend to three years, or with fine of not less than twenty-five thousand rupees.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["non-compliance", "penalty", "enforcement", "order", "imprisonment", "fine"]
+  },
+  {
+    "section": "Consumer Protection Act 2019 - Section 88",
+    "title": "E-Commerce Consumer Rights",
+    "description": "E-commerce entities must display information about return, refund, exchange, warranty and guarantee. Sellers on platforms must be identified. Grievance officer must be appointed. Consumer Protection (E-Commerce) Rules 2020 apply.",
+    "procedure": "1. Contact seller via platform grievance mechanism. 2. Platform must resolve within 48 hours, dispose within 1 month. 3. File complaint on NCH (National Consumer Helpline). 4. Approach consumer forum if unresolved.",
+    "act": "Consumer Protection Act 2019",
+    "category": "Consumer",
+    "keywords": ["e-commerce", "online shopping", "refund", "return", "online seller", "amazon", "flipkart", "platform"]
+  }
+]
